@@ -11,7 +11,7 @@ class LifeHackerTransformer extends TransformerAbstract
 
 			'title' => $payload->title,
 			'link' =>  $payload->permalink,
-			'created_at' => $payload->date,
+			'timestamp' => $payload->date,
 			'service' => 'LifeHacker',
 			
 		];
