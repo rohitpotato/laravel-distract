@@ -1,3 +1,7 @@
+Pulls popular topics from your favorite websites on a single page application without the hassle of browsing elsewhere! 
+
+https://distract.herokuapp.com
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
